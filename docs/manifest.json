@@ -1,0 +1,1365 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/Drive/Escuela/Doctorado/Investigacion/UserModel2/GUMCARS_forCAI",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "i7YZqZWkMTyccXNAoImAKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "OncUXW6Tl6Js6KRYQbLVHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "mVStmVKuCvTqKt2qqQ8bjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.Activity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.Activity.html",
+          "hash": "5bR6ezZQgGiwO0HqejX1NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.Eat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.Eat.html",
+          "hash": "9l8pyT94BDCXC95KXuaj0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.Listen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.Listen.html",
+          "hash": "zuPpNxJL5s/HknezbMns7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.Purchase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.Purchase.html",
+          "hash": "wHBs/djhUO4eBlbGdfRmYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.RatedActivity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.RatedActivity.html",
+          "hash": "pQrVm+6CyDRxu9F3V2aqDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.Travel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.Travel.html",
+          "hash": "pBq2YF2p0HxvrJXIRUejIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.View.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.View.html",
+          "hash": "irZIU+XjwrGSPI3LL0CJjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Activity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Activity.html",
+          "hash": "U/wkX6Cqw70Ke45VZ3eBLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.Computing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.Computing.html",
+          "hash": "/1hNAYJ1+0U3cdD2eNWglw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.Device.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.Device.html",
+          "hash": "dmhVjApItd/iNUrplNFobQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.Display.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.Display.html",
+          "hash": "zqVlbeoKNJB05Pt+zFFTrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.DisplayResolution.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.DisplayResolution.html",
+          "hash": "jggNOXXDjM9vqvqG2RkZ/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.Hardware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.Hardware.html",
+          "hash": "YoZU3rChMGZEIXjg9V62Bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.HardwarePort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.HardwarePort.html",
+          "hash": "cngpDd78wwOGzWiN3CrCGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.MobileDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.MobileDevice.html",
+          "hash": "10OwhbwNA2YXgnfpidt24A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.Network.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.Network.html",
+          "hash": "p/NEckBblI/ReynCr5dA3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.NetworkType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.NetworkType.html",
+          "hash": "VXyrNRVFCBJvnMAHqTSxJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.Sensor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.Sensor.html",
+          "hash": "0OKPr/OCYwpzCsyLUhrDcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.SmartPhone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.SmartPhone.html",
+          "hash": "J4QeDGptgsnE6KSnJkNX4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.Software.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.Software.html",
+          "hash": "8g3RVgJmtnCql+EO2HUcIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Computing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Computing.html",
+          "hash": "ibHjSFQkSQ3pPyuQLU1iCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Context.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Context.html",
+          "hash": "rDU8pae/E6MRUDwFTkjWFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Location.Address.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Location.Address.html",
+          "hash": "C/b1UjhLhQCWgaBundTTeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Location.Coordinate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Location.Coordinate.html",
+          "hash": "wKVWrU9WDS6AW+sZlA6EGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Location.DigitalLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Location.DigitalLocation.html",
+          "hash": "p0IE5qfup68ENzQxZW0F6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Location.PhysicalLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Location.PhysicalLocation.html",
+          "hash": "JXneWLVftGtyymVNG/iBdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Location.Place.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Location.Place.html",
+          "hash": "mVAYkaiNWw7tDG0vkoVpYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Location.PlaceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Location.PlaceType.html",
+          "hash": "epkESh6lSh/rd1eKq3RUfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Location.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Location.html",
+          "hash": "OosQJ79XuAiJjt9kpAWf4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.PhysicalCondition.Light.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.PhysicalCondition.Light.html",
+          "hash": "eHEOcn1GXqcbDK46jJUvIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.PhysicalCondition.LightSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.PhysicalCondition.LightSource.html",
+          "hash": "880bv2/FaT/wfhYKm/HROQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.PhysicalCondition.Noise.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.PhysicalCondition.Noise.html",
+          "hash": "CoENXJ5vRHJjTcmNj1kVTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.PhysicalCondition.PhysicalCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.PhysicalCondition.PhysicalCondition.html",
+          "hash": "keV9JVpVeZZIphbXJSLEww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.PhysicalCondition.Weather.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.PhysicalCondition.Weather.html",
+          "hash": "wjGaCAqPn3MxK8sVbGyaDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.PhysicalCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.PhysicalCondition.html",
+          "hash": "IxKgB5YUClwchstEjCJfIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Resource.Resource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Resource.Resource.html",
+          "hash": "D22DVpU4wBlRQqFfzKpo7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Resource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Resource.html",
+          "hash": "dghGm70p0S+pKqUtV+XB0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Social.SocialRelation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Social.SocialRelation.html",
+          "hash": "maqqSjK19wFY6Lo85U2euA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Social.SocialRelationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Social.SocialRelationType.html",
+          "hash": "vEIUpJDdh+60aAvbnpLKwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Social.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Social.html",
+          "hash": "UPu28/NULycI3sIwCSOm2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Time.DayOfWeek.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Time.DayOfWeek.html",
+          "hash": "Vsd9FzMlnoeYwjnqsiN2Vw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Time.DayType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Time.DayType.html",
+          "hash": "oAmiqe7QsteAkjTMLfmWRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Time.Season.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Time.Season.html",
+          "hash": "aHiQfXtQcSqQO9ssz8tJ7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Time.Time.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Time.Time.html",
+          "hash": "gOn1Qt6Yu9KXguf/Bv1Wfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Time.TimeOfDay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Time.TimeOfDay.html",
+          "hash": "0n+USlhVMlHvV5UnuQDsbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.Time.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.Time.html",
+          "hash": "vn0Y8Xr1EGXMpN6/3vrdxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Context.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Context.html",
+          "hash": "j5YWaSejpVx5Ikq/7nwsQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Audio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Audio.html",
+          "hash": "EukMNjbpFDMl8UE3hmM07A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.AudioService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.AudioService.html",
+          "hash": "6u8W2NFc+x+3rBWfI86FIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Book.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Book.html",
+          "hash": "P7NHEe6fQiTTXg+hSwjZRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Dish.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Dish.html",
+          "hash": "chZTMAAbNMcY9pM9FX2noQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Hotel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Hotel.html",
+          "hash": "6KtY7nXhqJgRnrE2cRFCyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Item.html",
+          "hash": "+zm4LLDy+KBgWDy/2J1jnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.NewsArticle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.NewsArticle.html",
+          "hash": "I0W6DoWSbvf8unY/8tnNTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Photo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Photo.html",
+          "hash": "Wj/sHLI/hTDCCM+/879cng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Rating.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Rating.html",
+          "hash": "z5fs+8SL6Hi9stMrCK2wOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.RatingType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.RatingType.html",
+          "hash": "EBv9/Nmz/cUJaZ+4xXn0Rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Restaurant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Restaurant.html",
+          "hash": "2iJb52SJxyBZeljR9hgujQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.Video.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.Video.html",
+          "hash": "/iUEipdcOh/XByi2pKRb2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.VideoGenres.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.VideoGenres.html",
+          "hash": "TjqW2hGI1aq7gvbR3W8eEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.VideoService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.VideoService.html",
+          "hash": "01M6E+khchbdji1T58xLgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.Item.html",
+          "hash": "7Zo5KqoZiG1KXDfdESO00g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Contact.Account.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Contact.Account.html",
+          "hash": "YXcYBMZ1O64b6CR65YRX2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Contact.Contact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Contact.Contact.html",
+          "hash": "6R4ChmBSa57mr8Su9Gx8vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Contact.SocialNetwork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Contact.SocialNetwork.html",
+          "hash": "g+VOsz57yUuKHH4npYcoRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Contact.SocialNetworkType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Contact.SocialNetworkType.html",
+          "hash": "6edPOTFSWUgPywfaQY8JqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Contact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Contact.html",
+          "hash": "JpUFtpRWovu3QJEe771DUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Demographics.Demographic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Demographics.Demographic.html",
+          "hash": "O3PAXXJVKUXvsqsETjuZGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Demographics.Gender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Demographics.Gender.html",
+          "hash": "uKdb4gjVYLaLtw7XBTFEMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Demographics.Language.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Demographics.Language.html",
+          "hash": "rlWIVVagiqzVC4IZFuQTuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Demographics.RelationshipStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Demographics.RelationshipStatus.html",
+          "hash": "lYXN/AGkjIOY7108IHJ45g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Demographics.SpokenLanguage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Demographics.SpokenLanguage.html",
+          "hash": "2/HQDQww6gkFsjRJIFe14A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Demographics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Demographics.html",
+          "hash": "pqxpuIJAIt3KEwLIGBNhwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Emotion.EmotionalState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Emotion.EmotionalState.html",
+          "hash": "4ZfJMvk8CEBV1jsGX3NWIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Emotion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Emotion.html",
+          "hash": "/pNvde86almhWhjwLJK2Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.InterestPreferences.Interest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.InterestPreferences.Interest.html",
+          "hash": "W7k31EAPxrduMYKtUbnSew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.InterestPreferences.InterestPreference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.InterestPreferences.InterestPreference.html",
+          "hash": "dnXz4VaWRyCbwnueFebUSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.InterestPreferences.Preference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.InterestPreferences.Preference.html",
+          "hash": "kvFNZR+S4rhTDfOYTCXGfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.InterestPreferences.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.InterestPreferences.html",
+          "hash": "b0iJA8HPyiCmp88xOCq/5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Mental.CognitiveStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Mental.CognitiveStyle.html",
+          "hash": "o1DLvcrTEBcS4fBhWJZLDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Mental.Mental.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Mental.Mental.html",
+          "hash": "Sq35KzD8kooAy4BCsuJSvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Mental.MentalState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Mental.MentalState.html",
+          "hash": "/CcH2puuGlPxMoKt4hdkog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Mental.MentalStress.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Mental.MentalStress.html",
+          "hash": "i5EN4MzlpR5/DG0qVN20bg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Mental.Mood.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Mental.Mood.html",
+          "hash": "fLX6FzfCqvjbnJypJeDLeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Mental.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Mental.html",
+          "hash": "IW120DURvg1jZByPpY8UZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Personality.PersonalityAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Personality.PersonalityAttribute.html",
+          "hash": "uk6Li5NcwiCJergrW5tbxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Personality.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Personality.html",
+          "hash": "0rYxR8gW5JvBE0O6BWTG4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.Arm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.Arm.html",
+          "hash": "wJuHWbJ8RjxVZ4G41om6eg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.BodyPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.BodyPart.html",
+          "hash": "8H3EvQo53ulc4ue6T9eAQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.BodySide.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.BodySide.html",
+          "hash": "tyNKNV2ntnPVoiXdAwaMIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.ColorBlindness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.ColorBlindness.html",
+          "hash": "lPNMxEBkOe9rzBJ98WKNzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.Disability.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.Disability.html",
+          "hash": "Go9ScniKYhkH3s1Do+okKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.Foot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.Foot.html",
+          "hash": "yEU9NEmo4ad/sw+hpbx03A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.Hand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.Hand.html",
+          "hash": "ySxzwlir8oMCK6EGj4KByA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.Head.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.Head.html",
+          "hash": "/gitxZ12c37J5wi94TofYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.MuscoloskeletalDisability.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.MuscoloskeletalDisability.html",
+          "hash": "m2gwLBvZFdJNIsvB0YI7Xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.PhysiologicalState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.PhysiologicalState.html",
+          "hash": "6aKOnDeBgOg++uWv2qX+fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.Physiology.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.Physiology.html",
+          "hash": "jC4a9A4oNvln/R81A7BptA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.VisualImpairment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.VisualImpairment.html",
+          "hash": "dyjY/WUzEIGeOvFe729iuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Physiological.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Physiological.html",
+          "hash": "T15lU4zYrn0AhrhggfctSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Role.Role.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Role.Role.html",
+          "hash": "KBuQ+wvMx5QCHzn0SAI50Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.Role.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.Role.html",
+          "hash": "dCztU3nEIj/WQ9CnT6iFGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.User.html",
+          "hash": "nuPYz27lVpmc5QHWKoqryA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GUMCARS.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GUMCARS.User.html",
+          "hash": "W/I0QVSob4cqMakQQS0OcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "jD4SvN+YhvCs7CmbivjQCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "frPdeW5hGroGiyexwMQIhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
